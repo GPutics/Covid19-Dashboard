@@ -1,0 +1,16 @@
+.infoBox {
+    flex: 1;
+    cursor: pointer;
+
+    &:not(:last-child) {
+        margin-right: 10px;
+    }
+
+    &.selected {
+        border-top: 10px solid green;
+    }
+    
+    &.red {
+        border-color: red;
+    }
+}
