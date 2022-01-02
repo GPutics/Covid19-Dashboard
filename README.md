@@ -1,1 +1,1 @@
-Live site: https://gergoputics-moviedb.netlify.app
+Live site: https://gergoputics-covid19-dashboard.netlify.app
