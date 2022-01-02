@@ -4,7 +4,7 @@ import React from 'react';
 import { showDataOnMap } from '../../helpers';
 
 //styles
-import './Map.modal.scss';
+import './Map.scss';
 
 import { Map as LeafletMap, TileLayer } from "react-leaflet";
 

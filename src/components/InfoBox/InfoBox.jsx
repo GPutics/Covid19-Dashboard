@@ -1,7 +1,7 @@
 import React from 'react'
 
 //styles
-import './InfoBox.modal.scss';
+import './InfoBox.scss';
 
 //mui
 import { Card, CardContent, Typography } from '@mui/material'

@@ -2,7 +2,7 @@ import React from 'react'
 import numeral from 'numeral';
 
 //styles
-import './Table.modal.scss';
+import './Table.scss';
 
 const Table = ({countries}) => {
     return (
